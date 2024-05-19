@@ -16,6 +16,7 @@ This project is a website designed for the clothing brand STAND, which was conce
 [![HTML Lenguage](https://img.shields.io/badge/Lenguage-HTML-blue)](https://choosealicense.com/licenses/mit/)
 [![CSS Lenguage](https://img.shields.io/badge/Lenguage-CSS-green)](https://choosealicense.com/licenses/mit/)
 [![Javascript Lenguage](https://img.shields.io/badge/Lenguage-Javascript-yellow)](https://choosealicense.com/licenses/mit/)
+[![Javascript Lenguage](https://img.shields.io/badge/Framework-Bootstrap-purple)](https://choosealicense.com/licenses/mit/)
 
 
 ![Logo](https://i.ibb.co/vsSsB4p/Asset-19-ARROW0black.png)
